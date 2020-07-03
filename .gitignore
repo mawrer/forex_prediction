@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Datasets/Junio2020/.DS_Store
+Jupyter Notebooks/.DS_Store
+Jupyter Notebooks/.DS_Store
+Models/.DS_Store
+Models/2020/.DS_Store
+Models/.DS_Store
+Datasets/Junio2020/dukas/EURUSD/1M/.DS_Store
+.DS_Store
+Datasets/.DS_Store
+Datasets/Junio2020/.DS_Store
+Datasets/Junio2020/dukas/.DS_Store
+Datasets/Junio2020/dukas/EURUSD/.DS_Store
+Models/.DS_Store
+Jupyter Notebooks/IDI4/.DS_Store
+Jupyter Notebooks/.DS_Store
+Tools/auquantoolbox/
+.DS_Store
+Datasets/.DS_Store
+Datasets/histdata/eurusd/FULL/full_data.csv
