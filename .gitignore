@@ -127,32 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Datasets/Junio2020/.DS_Store
-Jupyter Notebooks/.DS_Store
-Jupyter Notebooks/.DS_Store
-Models/.DS_Store
-Models/2020/.DS_Store
-Models/.DS_Store
-Datasets/Junio2020/dukas/EURUSD/1M/.DS_Store
-.DS_Store
-Datasets/.DS_Store
-Datasets/Junio2020/.DS_Store
-Datasets/Junio2020/dukas/.DS_Store
-Datasets/Junio2020/dukas/EURUSD/.DS_Store
-Models/.DS_Store
-Jupyter Notebooks/IDI4/.DS_Store
-Jupyter Notebooks/.DS_Store
 Tools/auquantoolbox/
-.DS_Store
-Datasets/.DS_Store
 Datasets/histdata/eurusd/FULL/full_data.csv
-Datasets/.DS_Store
-.DS_Store
 Datasets/download-tick-from-dukascopy/
 Datasets/historical-market-data/
-Datasets/.DS_Store
-Datasets/.DS_Store
-.DS_Store
 Datasets/Junio2020/dukas/EURUSD/1M/FULL/FULL_EURUSD_1M_ASK_31.12.2003-31.05.2020.csv
 Datasets/Junio2020/dukas/EURUSD/1M/FULL/FULL_EURUSD_1M_BID_31.12.2003-31.05.2020.csv
 Datasets/Junio2020/dukas/EURUSD/1M/01_EURUSD_Candlestick_1_M_ASK_31.12.2003-31.12.2005.csv
@@ -172,10 +150,4 @@ Datasets/Junio2020/dukas/EURUSD/1M/07_EURUSD_Candlestick_1_M_BID_31.12.2016-31.1
 Datasets/Junio2020/dukas/EURUSD/1M/08_EURUSD_Candlestick_1_M_ASK_31.12.2019-31.05.2020.csv
 Datasets/Junio2020/dukas/EURUSD/1M/09_EURUSD_Candlestick_1_M_BID_31.12.2019-31.05.2020.csv
 Datasets/Junio2020/procesados/EURUSD_FULL_1M_20F.csv
-Jupyter Notebooks/.DS_Store
-Jupyter Notebooks/IDI4/.DS_Store
-Datasets/.DS_Store
-.DS_Store
-Datasets/.DS_Store
-Datasets/.DS_Store
-Datasets/Junio2020/.DS_Store
+**/.DS_Store
